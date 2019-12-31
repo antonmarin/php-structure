@@ -1,4 +1,4 @@
-Здесь хранятся EndPoints (могут называться по разному - Controllers,Actions,Commands).
+Здесь хранятся EndPoints (могут называться по разному - Controllers, Actions, Commands).
 
 Их основная задача получить данные из ввода, валидировать их и передать их в UseCase.
 
